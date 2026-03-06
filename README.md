@@ -6,14 +6,6 @@
 
 ---
 
-### In Progress
-
-- DPDK kernel bypass
-- Extension of DREAMPlace + noise-aware circuit clustering (VLSI)
-- Student Clock 
-
----
-
 <details>
 <summary><strong>Gallery</strong></summary>
 <br>
