@@ -1,11 +1,13 @@
 ### Interests
 
-High-Performance Systems & Networking · Hardware/Software Co-Design · Systems for ML
+- High-Performance Systems & Networking
+- Hardware/Software Co-Design
+- Systems for ML
 
 ---
 
 <details>
-<summary><strong>🖼️ Gallery</strong></summary>
+<summary><strong>Gallery</strong></summary>
 <br>
 
 <table>
